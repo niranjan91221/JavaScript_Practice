@@ -41,5 +41,17 @@ ECMAScript (ES6+)
     JavaScript = Implementation of those rules
 
 JavaScript Engine (V8, SpiderMonkey)
+    1. V8 Engine
+    Developed by Google.
+    Used in:
+    Chrome
+    Node.js
+    Microsoft Edge
 
+    V8 uses Just-In-Time (JIT) compilation to compile JavaScript into machine code for high performance.
+
+    2. SpiderMonkey
+    Developed by Mozilla Foundation.
+    Used in Firefox.
+    
 How JavaScript works in browsers
