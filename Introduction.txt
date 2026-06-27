@@ -1,0 +1,45 @@
+/+++Introduction to JavaScript++++/
+
+What is JavaScript?
+    JavaScript is a scripting language that enables developers to create dynamic content, control multimedia, animate images, validate forms, and respond to user actions on websites.
+
+    What JavaScript is used for
+        Creating interactive web pages
+        Handling user events (clicks, keyboard input, etc.)
+        Updating content without reloading the page
+        Building web applications
+        Developing server-side applications with Node.js
+        Creating mobile and desktop applications
+
+History of JavaScript
+    1995
+    JavaScript was created by Brendan Eich in just 10 days.
+    It was developed at Netscape.
+    Initially called Mocha.
+    Later
+
+    Mocha → LiveScript → JavaScript
+
+Features of JavaScript
+    Lightweight
+    Interpreted
+    Dynamically Typed
+    Object-Oriented
+    Event Driven
+    Prototype-based
+    Cross-platform
+    Asynchronous
+    First-Class Functions
+    Case Sensitive
+
+ECMAScript (ES6+)
+    ECMAScript (ES) is the official standard or specification on which JavaScript is based.
+
+    Think of it like this:
+    ECMAScript = Rules/Specification
+    ↓
+    JavaScript = Implementation of those rules
+
+JavaScript Engine (V8, SpiderMonkey)
+
+How JavaScript works in browsers
