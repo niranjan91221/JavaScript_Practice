@@ -99,3 +99,12 @@ function reverseStringWithReduce(str) {
 const reversedStringWithReduce = reverseStringWithReduce(inputString);
 // console.log(`Reversed string (using reduce): ${reversedStringWithReduce}`);
 // Output: !dlroW ,olleH
+
+
+
+const name = "Hello";
+// for(let i = name.length; i >= 0; i--) {
+//     console.log(name[i]);
+// }
+console.log(name.substring(0, 3));
+console.log(name.length);
